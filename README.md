@@ -1,2 +1,0 @@
-# shukyee.github.io
-hello
